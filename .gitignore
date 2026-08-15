@@ -1,0 +1,10 @@
+apk/
+bin/
+tmp/
+scripts/__pycache__
+.vs/
+src/out/
+**/*.spv
+*.keystore
+install/
+*~
