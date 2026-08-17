@@ -3,8 +3,8 @@
     "spec_ver": 1,
     "name": "2D RenderTarget",
 
-    "vertex_shader": "Resources/Shaders/VK/2D/RenderTarget/vert.spv",
-    "fragment_shader": "Resources/Shaders/VK/2D/RenderTarget/frag.spv",
+    "vertex_shader": "Resources/Shaders/VK/2D/RenderTarget/shader.vert.spv",
+    "fragment_shader": "Resources/Shaders/VK/2D/RenderTarget/shader.frag.spv",
     
     "vertex_type": "OSK::Vertex2D",
     "config": {
